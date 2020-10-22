@@ -1,0 +1,15 @@
+output
+record
+camera
+devise
+export
+filter
+freeze
+cursor
+hacker
+laptop
+lesson
+manual
+prompt
+string
+parent

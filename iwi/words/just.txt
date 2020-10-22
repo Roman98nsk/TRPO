@@ -1,0 +1,15 @@
+atom
+core
+data
+demo
+home
+disk
+hand
+head
+case
+link
+post
+team
+code
+game
+geek
